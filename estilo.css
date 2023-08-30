@@ -4,6 +4,10 @@ body {
     font-family: Tahoma;
 }
 
+a {
+    color: black;
+}
+
 .logo {
     text-align: center;
     width: 700px;
